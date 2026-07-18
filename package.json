@@ -2,6 +2,14 @@
   "name": "democi",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/arbazansari7933/node-application-deploy-ci-cd#readme",
+  "bugs": {
+    "url": "https://github.com/arbazansari7933/node-application-deploy-ci-cd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbazansari7933/node-application-deploy-ci-cd.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "module",
